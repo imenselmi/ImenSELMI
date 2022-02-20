@@ -1,6 +1,7 @@
+![I am a Computer Science Engineering student at the National School of Engineers of Sfax. ](https://img.freepik.com/free-vector/artificial-intelligence-robots-cyborg-with-infinity-symbol_107791-4668.jpg?w=1380)
 ### Hi there 👋, my name is Imen
 #### I am a Computer Science Engineering student at the National School of Engineers of Sfax. 
-![I am a Computer Science Engineering student at the National School of Engineers of Sfax. ](https://img.freepik.com/free-vector/artificial-intelligence-robots-cyborg-with-infinity-symbol_107791-4668.jpg?w=1380)
+
 
 I am passionate about coding and teamwork, And I've started since October 2020 from several learning sites, YouTube videos, articles ,learning sites such as Udacity , joined different clubs and noted all my knowledge in my notebook.
 
