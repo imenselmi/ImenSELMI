@@ -7,11 +7,12 @@ I am passionate about coding and teamwork, And I've started since October 2020 f
 
 Add to that I have excellent communication skills enabling me to effectively interact with a wide range of people, add to that a large experience of organization and willing to help others.
 
- Adept at working within highly collaborative environments and learning new methods.
+Adept at working within highly collaborative environments and learning new methods.
 
-Looking forward to connecting with you.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Skills 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚛ Machine learning, Deep learning; Computer vision, NLP
+
 📱 Python, C, C++, Java, PHP, JS, JEE, React, OpenCV, Streamlit, HTML, CSS, Bootstrap, Flusk, django 
+
 💻 Linux, windows
