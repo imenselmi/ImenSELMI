@@ -4,19 +4,13 @@ Imen Selmi
    ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/imenselmi/Artificial-Intelligence-enis-labs/39d827494fef04b246cee1a66ae54fcd0482e699/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d6361623963652673697a653d33302663656e7465723d74727565267643656e7465723d747275652677696474683d353530266865696768743d3730%20(3).svg)
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I am a Computer Science Engineering student at the National School of Engineers of Sfax. 
-
-I am passionate about coding and teamwork, And I've started since October 2020 from several learning sites, YouTube videos, articles ,learning sites such as Udacity , joined different clubs and noted all my knowledge in my notebook.
-
-Add to that I have excellent communication skills enabling me to effectively interact with a wide range of people, add to that a large experience of organization and willing to help others.
-
-Adept at working within highly collaborative environments and learning new methods.
+Machine Learning Engineer with strong interest in MLOps and Machine Learning in Production
 
 Skills 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-⚛ Machine learning, Deep learning; Computer vision, NLP
+⚛ Machine learning, Deep learning; Computer vision, NLP,MLOps
 
-📱 Python, C, C++, Java, PHP, JS, JEE, React, OpenCV, Streamlit, HTML, CSS, Bootstrap, Flusk, django 
+📱 Python, C, C++, Java 
 
 💻 Linux, windows
 
