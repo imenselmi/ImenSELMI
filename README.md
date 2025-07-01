@@ -3,7 +3,7 @@ Imen Selmi
 
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Computer Vision Engineer with strong interest in MLOps and Machine Learning in Production
+Software Engineer with strong interest in MLOps and Machine Learning in Production
 
 Skills 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
